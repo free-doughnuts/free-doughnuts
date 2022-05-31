@@ -1,5 +1,4 @@
-### Hi there 😀
-### Wellcome to my profile
+### Wellcome to my profile 😀
 
 ![image](donuts.png)
 
