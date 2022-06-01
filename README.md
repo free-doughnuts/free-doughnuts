@@ -21,7 +21,7 @@ First of all - I Like donuts !
 [![Laptop](https://img.shields.io/badge/Laptop-debian-red)](https://www.debian.org/)
 [![Server](https://img.shields.io/badge/Server-fedora-blue)](https://getfedora.org/)
 [![Environment](https://img.shields.io/badge/Environment-kde-blue)](https://kde.org/)
-[![Editor](https://img.shields.io/badge/Editor-atom-yellow)](https://atom.io/)
+[![Editor](https://img.shields.io/badge/Editor-atom-yellowgreen)](https://atom.io/)
 ![Password](https://img.shields.io/badge/Account--Password-password123!-purple)
 
 <!--
