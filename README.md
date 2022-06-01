@@ -6,6 +6,8 @@
 
 First of all - I Like donuts !
 
+I believe that if we can share code, we can also share donuts.
+
 # 🖥️ I'm an IT guy about 18 years, My skills are
 
 - Aws
