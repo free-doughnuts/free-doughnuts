@@ -2,6 +2,8 @@
 
 ![image](donuts.png)
 
+
+
 First of all - I Like donuts !
 
 # 🖥️ I'm an IT guy about 18 years, My skills are
@@ -15,11 +17,10 @@ First of all - I Like donuts !
 
 # 🐧 My main operating system at home
 
-- Desktop = ubuntu 
-- Laptop = Debian
-- server = fedora
-
-I'm a HUGE fanboy of KDE !  
+![desktop](https://img.shields.io/badge/Desktop-ubuntu-orange)
+![laptop](https://img.shields.io/badge/Laptop-Debian-red)
+![server](https://img.shields.io/badge/server-Fedora-blue)
+![environment](https://img.shields.io/badge/environment-KDE-blue)
 
 
 <!--
