@@ -17,11 +17,11 @@ First of all - I Like donuts !
 
 # 🐧 My main operating system at home
 
-![desktop](https://img.shields.io/badge/Desktop-ubuntu-orange)
-![laptop](https://img.shields.io/badge/Laptop-Debian-red)
-![server](https://img.shields.io/badge/server-Fedora-blue)
-![environment](https://img.shields.io/badge/environment-KDE-blue)
-
+[![Desktop](https://img.shields.io/badge/Desktop-ubuntu-orange)](https://ubuntu.com/)
+[![Laptop](https://img.shields.io/badge/Laptop-debian-red)](https://www.debian.org/)
+[![Server](https://img.shields.io/badge/Server-fedora-blue)](https://getfedora.org/)
+[![Environment](https://img.shields.io/badge/Environment-kde-blue)](https://kde.org/)
+[![Editor](https://img.shields.io/badge/Editor-atom-yellow)](https://atom.io/)
 
 <!--
 **free-doughnuts/free-doughnuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
