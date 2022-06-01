@@ -1,4 +1,4 @@
-### Wellcome to my profile 🍩 ☕ 😀
+### Welcome to my profile 🍩 ☕ 😀
 
 ![image](donuts.png)
 
