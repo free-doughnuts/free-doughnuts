@@ -3,7 +3,6 @@
 ![image](donuts.png)
 
 First of all - I Like donuts !
-I'm currentlly at home - post covid sucks !
 
 # 🖥️ I'm an IT guy about 18 years, My skills are
 
