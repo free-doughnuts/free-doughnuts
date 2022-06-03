@@ -18,7 +18,7 @@ My skills are:
 - Linux & Windows
 - Eat donuts
 
-# 🐧 My main operating system at home
+# My main operating system at home 🐧 
 
 [![Desktop](https://img.shields.io/badge/Desktop-ubuntu-orange)](https://ubuntu.com/)
 [![Laptop](https://img.shields.io/badge/Laptop-debian-red)](https://www.debian.org/)
