@@ -1,4 +1,4 @@
-### Hey Everyone 🍩 ☕ 😀
+# Hey Everyone 🍩 ☕ 😀
 I believe that if we can share code, we can also share donuts.
 
 ![image](donuts.png)
@@ -9,6 +9,7 @@ I believe that if we can share code, we can also share donuts.
 - 🖥️ I'm an IT guy about 18 years
 - 👾 I'm addicted to old games
 - 🎮 I've 1820 hours in battlefield4 multiplayer
+- 🎸 huge ac/dc fanboy
 
 # My skills are 🥷
 - :cloud: aws
