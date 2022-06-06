@@ -26,10 +26,10 @@ I believe that if we can share code, we can also share donuts.
 [![Server](https://img.shields.io/badge/Server-fedora-blue)](https://getfedora.org/)
 [![Environment](https://img.shields.io/badge/Environment-kde-blue)](https://kde.org/)
 [![Editor](https://img.shields.io/badge/Editor-atom-yellowgreen)](https://atom.io/)
-![Terminal](https://img.shields.io/badge/TerminalEmulator-tilda-blue)
+![Terminal](https://img.shields.io/badge/Terminal--Emulator-tilda-blue)
 [![Shell](https://img.shields.io/badge/Shell-zsh-yellowgreen)](https://ohmyz.sh/)
 [![Password](https://img.shields.io/badge/Account--Password-password123!-purple)](https://github.com/free-doughnuts)
-[![Peripheral equipment](https://img.shields.io/badge/PeripheralEquipment-razer-green)](https://www.razer.com/)
+[![Peripheral equipment](https://img.shields.io/badge/Peripheral--Equipment-razer-green)](https://www.razer.com/)
 
 <!--
 **free-doughnuts/free-doughnuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
