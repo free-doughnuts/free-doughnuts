@@ -7,18 +7,18 @@ I believe that if we can share code, we can also share donuts.
 # A little bit about me 
 
 - 🍩 First of all - I Like donuts
-- 🖥️ I'm an IT guy about 18 years 
+- 🖥️ I'm an IT guy about 18 years
+- 👾 I'm addicted to old games
 
 My skills are:
+- :cloud: aws
+- :satellite: networking
+- :key: penetration testing
+- :department_store: rack building
+- :penguin: linux 
+- :window: windows
 
-- Aws
-- Networking
-- Penetration Testing
-- Rack building
-- Linux & Windows
-- Eat donuts
-
-# My main operating system at home 🐧 
+# My environment at home 🐧
 
 [![Desktop](https://img.shields.io/badge/Desktop-ubuntu-orange)](https://ubuntu.com/)
 [![Laptop](https://img.shields.io/badge/Laptop-debian-red)](https://www.debian.org/)
