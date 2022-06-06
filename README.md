@@ -1,8 +1,7 @@
 ### Hey Everyone 🍩 ☕ 😀
+I believe that if we can share code, we can also share donuts.
 
 ![image](donuts.png)
-
-I believe that if we can share code, we can also share donuts.
 
 # A little bit about me 
 
