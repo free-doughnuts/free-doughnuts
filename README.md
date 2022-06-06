@@ -10,7 +10,7 @@ I believe that if we can share code, we can also share donuts.
 - 👾 I'm addicted to old games
 - 🎮 I've 1820 hours in battlefield4 multiplayer
 
-My skills are:
+# My skills are
 - :cloud: aws
 - :satellite: networking
 - :key: penetration testing
