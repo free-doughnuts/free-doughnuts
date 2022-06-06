@@ -9,6 +9,7 @@ I believe that if we can share code, we can also share donuts.
 - 🍩 First of all - I Like donuts
 - 🖥️ I'm an IT guy about 18 years
 - 👾 I'm addicted to old games
+- 🎮 I've 1820 hours in battlefield4 multiplayer
 
 My skills are:
 - :cloud: aws
