@@ -29,6 +29,7 @@ I believe that if we can share code, we can also share donuts.
 ![Terminal](https://img.shields.io/badge/TerminalEmulator-tilda-blue)
 [![Shell](https://img.shields.io/badge/Shell-zsh-yellowgreen)](https://ohmyz.sh/)
 ![Password](https://img.shields.io/badge/Account--Password-password123!-purple)
+[![Peripheral equipment](https://img.shields.io/badge/PeripheralEquipment-razer-green)](https://www.razer.com/)
 
 <!--
 **free-doughnuts/free-doughnuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
