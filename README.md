@@ -31,6 +31,9 @@ I believe that if we can share code, we can also share donuts.
 [![Password](https://img.shields.io/badge/Account--Password-password123!-purple)](https://github.com/free-doughnuts)
 [![Peripheral equipment](https://img.shields.io/badge/Peripheral--Equipment-razer-green)](https://www.razer.com/)
 
+# About repos 🔃
+you can also find my repos on my [GitLab](https://gitlab.com/free-doughnuts) account
+
 <!--
 **free-doughnuts/free-doughnuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
