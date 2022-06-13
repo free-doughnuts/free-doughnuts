@@ -25,7 +25,7 @@ I believe that if we can share code, we can also share donuts.
 [![Laptop](https://img.shields.io/badge/Laptop-debian-red)](https://www.debian.org/)
 [![Server](https://img.shields.io/badge/Server-fedora-blue)](https://getfedora.org/)
 [![Environment](https://img.shields.io/badge/Environment-kde-blue)](https://kde.org/)
-[![Editor](https://img.shields.io/badge/Editor-atom & sublime-yellowgreen)](https://atom.io/)
+[![Editor](https://img.shields.io/badge/Editor-atom-yellowgreen)](https://atom.io/)
 ![Terminal](https://img.shields.io/badge/Terminal--Emulator-tilda-blue)
 [![Shell](https://img.shields.io/badge/Shell-zsh-yellowgreen)](https://ohmyz.sh/)
 [![Password](https://img.shields.io/badge/Account--Password-password123!-purple)](https://github.com/free-doughnuts)
