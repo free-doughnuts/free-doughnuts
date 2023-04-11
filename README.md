@@ -27,7 +27,7 @@ I believe that if we can share code, we can also share donuts.
 [![Environment](https://img.shields.io/badge/Environment-kde-blue)](https://kde.org/)
 [![Editor](https://img.shields.io/badge/Editor-sublime-yellowgreen)](https://atom.io/)
 ![Terminal](https://img.shields.io/badge/Terminal--Emulator-tilda-blue)
-[![Shell](https://img.shields.io/badge/Shell-zsh-yellowgreen)](https://ohmyz.sh/)
+[![Shell](https://img.shields.io/badge/Shell-zsh+p10k-yellowgreen)](https://ohmyz.sh/)
 [![Password](https://img.shields.io/badge/Account--Password-password123!-purple)](https://github.com/free-doughnuts)
 [![Peripheral equipment](https://img.shields.io/badge/Peripheral--Equipment-razer-green)](https://www.razer.com/)
 
