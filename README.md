@@ -21,8 +21,7 @@ I believe that if we can share code, we can also share donuts.
 
 # My environment at home 🐧
 
-[![Desktop](https://img.shields.io/badge/Desktop-ubuntu-orange)](https://ubuntu.com/)
-[![Laptop](https://img.shields.io/badge/Laptop-manjaro-red)](https://www.debian.org/)
+[![DailyDistros](https://img.shields.io/badge/DailyDistros-ubuntu+manjaro-red)](https://ubuntu.com/)
 [![Environment](https://img.shields.io/badge/Environment-i3wm-blue)](https://kde.org/)
 [![Editor](https://img.shields.io/badge/Editor-sublime-yellowgreen)](https://atom.io/)
 ![Terminal](https://img.shields.io/badge/Terminal--Emulator-terminator-blue)
