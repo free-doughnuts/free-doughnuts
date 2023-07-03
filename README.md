@@ -19,7 +19,7 @@ I believe that if we can share code, we can also share donuts.
 - :penguin: linux 
 - :window: windows
 
-# My environment at home 🐧
+# My DevOpsing environment 🐧
 
 [![DailyDistros](https://img.shields.io/badge/DailyDistros-ubuntu+manjaro-red)](https://ubuntu.com/)
 [![Environment](https://img.shields.io/badge/Environment-i3wm-blue)](https://kde.org/)
