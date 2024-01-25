@@ -9,7 +9,7 @@ I believe that if we can share code, we can also share donuts.
 - 🖥️ I'm an IT guy about 18 years
 - 👾 I'm addicted to old games
 - 🎮 I've 1820 hours in battlefield4 multiplayer
-- 🎸 Guge AC/DC fanboy
+- 🎸 Huge AC/DC fanboy
 
 # My skills are 🥷
 - :cloud: AWS
