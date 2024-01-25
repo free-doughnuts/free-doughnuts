@@ -5,28 +5,28 @@ I believe that if we can share code, we can also share donuts.
 
 # A little bit about me 🕵
 
-- 🍩 first of all - I Like donuts
-- 🖥️ i'm an IT guy about 18 years
-- 👾 i'm addicted to old games
-- 🎮 i've 1820 hours in battlefield4 multiplayer
-- 🎸 huge ac/dc fanboy
+- 🍩 First of all - I Like donuts
+- 🖥️ I'm an IT guy about 18 years
+- 👾 I'm addicted to old games
+- 🎮 I've 1820 hours in battlefield4 multiplayer
+- 🎸 Guge AC/DC fanboy
 
 # My skills are 🥷
-- :cloud: aws
-- :satellite: networking
-- :key: penetration testing
-- :department_store: rack building
-- :penguin: linux 
-- :window: windows
+- :cloud: AWS
+- :satellite: Networking
+- :key: Penetration Testing
+- :department_store: Rack Building
+- :penguin: Linux 
+- :window: Windows
 
 # My DevOpsing environment 🐧
 
-[![DailyDistros](https://img.shields.io/badge/DailyDistros-ubuntu+manjaro-red)](https://ubuntu.com/)
+[![DailyDistros](https://img.shields.io/badge/DailyDistros-Ubuntu+Manjaro-red)](https://ubuntu.com/)
 [![Environment](https://img.shields.io/badge/Environment-i3wm-blue)](https://kde.org/)
-[![Editor](https://img.shields.io/badge/Editor-sublime-yellowgreen)](https://atom.io/)
-![Terminal](https://img.shields.io/badge/Terminal--Emulator-terminator-blue)
-[![Shell](https://img.shields.io/badge/Shell-zsh+p10k-yellowgreen)](https://ohmyz.sh/)
-[![Peripheral](https://img.shields.io/badge/Peripheral-razer-green)](https://www.razer.com/)
+[![Editor](https://img.shields.io/badge/Editor-Sublime-yellowgreen)](https://atom.io/)
+![Terminal](https://img.shields.io/badge/Terminal--Emulator-Terminator-blue)
+[![Shell](https://img.shields.io/badge/Shell-ZSH+P10K-yellowgreen)](https://ohmyz.sh/)
+[![Peripheral](https://img.shields.io/badge/Peripheral-Razer-green)](https://www.razer.com/)
 
 # About repos 🔃
 you can also find my repos on my [GitLab](https://gitlab.com/free-doughnuts) account
