@@ -22,7 +22,7 @@ I believe that if we can share code, we can also share donuts.
 # My DevOpsing environment 🐧
 
 [![DailyDistros](https://img.shields.io/badge/DailyDistros-Ubuntu+Manjaro-red)](https://ubuntu.com/)
-[![Environment](https://img.shields.io/badge/Environment-Cinnamon-blue)](https://kde.org/)
+[![Environment](https://img.shields.io/badge/Environment-Gnome+Cinnamon-blue)](https://kde.org/)
 [![Editor](https://img.shields.io/badge/Editor-Sublime-yellowgreen)](https://atom.io/)
 ![Terminal](https://img.shields.io/badge/Terminal--Emulator-Terminator-blue)
 [![Shell](https://img.shields.io/badge/Shell-ZSH+P10K-yellowgreen)](https://ohmyz.sh/)
