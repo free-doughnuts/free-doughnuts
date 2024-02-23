@@ -28,10 +28,11 @@ I believe that if we can share code, we can also share donuts.
 [![Shell](https://img.shields.io/badge/Shell-ZSH+P10K-yellowgreen)](https://ohmyz.sh/)
 [![Peripheral](https://img.shields.io/badge/Peripheral-Razer-green)](https://www.razer.com/)
 
+<!--
 # About repos 🔃
 you can also find my repos on my [GitLab](https://gitlab.com/free-doughnuts) account
 
-<!--
+
 **free-doughnuts/free-doughnuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
